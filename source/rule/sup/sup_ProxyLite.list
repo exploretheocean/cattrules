@@ -1,0 +1,24 @@
+DOMAIN,translate.google.com
+DOMAIN,translate.googleapis.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN,openaiapi-site.azureedge.net
+
+## libvio cdn
+## warp-proxy
+DOMAIN,p1.dailygn.com
+DOMAIN,p.cfnode1.xyz
+DOMAIN,p2.cfnode1.xyz
+
+# For GooglePlay Download (in MIUI)
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+
+# talkatone
+DOMAIN,co.dewrain.life
+DOMAIN,xmpp2.tktn.be
+DOMAIN,xmpp4.tktn.be
+# blocked
+DOMAIN,api2.branch.io
+DOMAIN,int.vaicore.site
+DOMAIN,kvinit-prod.api.kochava.com

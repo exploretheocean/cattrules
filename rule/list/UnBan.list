@@ -1,0 +1,82 @@
+# RULE_NAME: UnBan
+# MODIFIED_BY: exploretheocean
+# SOURCE_REPO: https://github.com/blackmatrix7/ios_rule_script or https://github.com/ACL4SSR/ACL4SSR
+# REPO: https://github.com/exploretheocean/cattrules
+# UPDATE: 2024-11-08 14:47:27.627417261 +0800
+# DOMAIN: 30
+# DOMAIN-SUFFIX: 19
+# IP-CIDR: 3
+# TOTAL: 52
+DOMAIN-SUFFIX,ol.epicgames.com
+# Getui
+DOMAIN-SUFFIX,dizhensubao.getui.com
+# Google
+DOMAIN,dl.google.com
+DOMAIN-SUFFIX,googletraveladservices.com
+# Mozilla
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+# Origin
+DOMAIN,origin-a.akamaihd.net
+# Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+# Strava
+# Umeng
+DOMAIN,errlog.umeng.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# Miui 小米
+DOMAIN,tracking.miui.com
+# General
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
+#1. SelfList(unProxied)
+DOMAIN-SUFFIX,mikecrm.com
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,ilxdh.com
+DOMAIN,liaoxuefeng.com
+#..university
+IP-CIDR,1.117.80.14/32,no-resolve
+IP-CIDR,211.69.140.0/22,no-resolve
+IP-CIDR,202.120.0.0/15,no-resolve
+#2. mirror/public CDN
+DOMAIN-SUFFIX,testingcf.jsdelivr.net
+DOMAIN-SUFFIX,tuna.moe
+DOMAIN-SUFFIX,cdnbye.com
+DOMAIN-SUFFIX,asia.ensembl.org
+#3. Unbreak WhiteList
+#   release rule, should put before REJECT rule.
+#..surge collection
+DOMAIN,passenger.t3go.cn
+DOMAIN,yunbusiness.ccb.com
+DOMAIN,wxh.wo.cn
+DOMAIN,gate.lagou.com
+DOMAIN,id6.me
+DOMAIN,open.e.189.cn
+DOMAIN,mdn.open.wo.cn
+DOMAIN,opencloud.wostore.cn
+DOMAIN,auth.wosms.cn
+DOMAIN-SUFFIX,jegotrip.com.cn
+DOMAIN-SUFFIX,icitymobile.mobi
+DOMAIN-SUFFIX,cmpassport.com
+#..bank
+DOMAIN,login-service.mobile-bank.psbc.com
+DOMAIN,mobile-bank.psbc.com
+DOMAIN,www.abchina.com.cn
+#..trans-client linkage
+DOMAIN,app.yinxiang.com
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
+DOMAIN,cable.auth.com
+DOMAIN-SUFFIX,id.ui.direct
+#..strava
+DOMAIN,analytics.strava.com
+#..garbge
+DOMAIN-SUFFIX,natfrp.com
+DOMAIN-SUFFIX,bendibao.com
