@@ -1,0 +1,8 @@
+# azure
+DOMAIN-SUFFIX,vo.msecnd.net
+DOMAIN-SUFFIX,aefd.nelreports.net
+DOMAIN-SUFFIX,edge.microsoft.com
+# VSC
+DOMAIN-SUFFIX,vsassets.io
+# API
+DOMAIN,app.identrust.com

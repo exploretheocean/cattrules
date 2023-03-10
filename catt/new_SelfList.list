@@ -1,0 +1,26 @@
+# Update at 2024-03-12
+# MyList
+DOMAIN-SUFFIX,gigibom.icu
+DOMAIN-SUFFIX,mikecrm.com
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,ilxdh.com
+DOMAIN,liaoxuefeng.com
+DOMAIN-SUFFIX,p.auv777.link
+DOMAIN,www.auv777.link
+
+# CDN
+# Cloudflare
+IP-CIDR,103.160.204.11/32,no-resolve
+IP-CIDR,103.172.111.1/32,no-resolve
+IP-CIDR,45.85.118.9/32,no-resolve
+IP-CIDR,93.114.64.25/32,no-resolve
+IP-CIDR,66.235.200.141/32,no-resolve
+IP-CIDR,138.2.6.113/32,no-resolve
+IP-CIDR,144.24.79.237/32,no-resolve
+IP-CIDR,92.223.63.22/32,no-resolve
+IP-CIDR,31.184.207.8/32,no-resolve
+IP-CIDR,198.41.204.199/32,no-resolve
+# university
+IP-CIDR,1.117.80.14/32,no-resolve
+IP-CIDR,211.69.140.0/22,no-resolve
+IP-CIDR,202.120.0.0/15,no-resolve

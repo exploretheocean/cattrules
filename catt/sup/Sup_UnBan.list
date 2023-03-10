@@ -1,0 +1,34 @@
+# surge collection
+DOMAIN,passenger.t3go.cn
+DOMAIN,yunbusiness.ccb.com
+DOMAIN,wxh.wo.cn
+DOMAIN,gate.lagou.com
+DOMAIN,id6.me
+DOMAIN,open.e.189.cn
+DOMAIN,mdn.open.wo.cn
+DOMAIN,opencloud.wostore.cn
+DOMAIN,auth.wosms.cn
+DOMAIN-SUFFIX,jegotrip.com.cn
+DOMAIN-SUFFIX,icitymobile.mobi
+DOMAIN-SUFFIX,cmpassport.com
+
+#bank
+DOMAIN,login-service.mobile-bank.psbc.com
+DOMAIN,mobile-bank.psbc.com
+DOMAIN,yunbusiness.ccb.com
+DOMAIN,www.abchina.com.cn
+
+# trans-client linkage
+DOMAIN,app.yinxiang.com
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
+DOMAIN,cable.auth.com
+DOMAIN-SUFFIX,id.ui.direct
+
+# strava
+DOMAIN,analytics.strava.com
+
+# garbge
+DOMAIN-SUFFIX,omofun.tv
+DOMAIN-SUFFIX,natfrp.com
+DOMAIN-SUFFIX,bendibao.com

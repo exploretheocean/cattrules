@@ -1,0 +1,5 @@
+redbox.com
+segments.mediatailor.us-east-1.amazonaws.com
+912c104801394c9cab5b8dde2613131f.mediatailor.us-east-1.amazonaws.com
+d1h1r4o6mz7uj7.cloudfront.net
+szwego.com

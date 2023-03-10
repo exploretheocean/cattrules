@@ -1,0 +1,38 @@
+DOMAIN-SUFFIX,c.sayhi.360.cn
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+DOMAIN-SUFFIX,mssdk-bu.bytedance.com
+DOMAIN-SUFFIX,dm.bytedance.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,msg.umengcloud.com
+DOMAIN-SUFFIX,ex.umengcloud.com
+DOMAIN-SUFFIX,udash.umengcloud.com
+DOMAIN-SUFFIX,upull.umengcloud.com
+DOMAIN-SUFFIX,utop.umengcloud.com
+
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN,browser.events.data.msn.com
+DOMAIN,aqyzmedia.yunaq.com
+DOMAIN-SUFFIX,3533.com
+
+# Game
+DOMAIN-SUFFIX,969g.com
+DOMAIN,www.zxwyouxi.com
+
+# jianshu
+DOMAIN-SUFFIX,hapying.com
+DOMAIN-SUFFIX,ilkwork.com
+DOMAIN-SUFFIX,kxvuv.com
+DOMAIN-SUFFIX,spush.com
+DOMAIN-SUFFIX,cdn.dkry4.top
+DOMAIN-SUFFIX,shujupie.com
+## jianshu jump js
+DOMAIN-SUFFIX,ahuano.com
+DOMAIN-SUFFIX,xiaozuowen.net
+DOMAIN-SUFFIX,gdtimg.com
+
+# Phishing site
+DOMAIN-SUFFIX,reedx51mut.com
+
+# manga ADs
+DOMAIN-SUFFIX,xfztgxt.com
