@@ -1,0 +1,10 @@
+openai.com
+ai.com
+xmpush.xiaomi.com
+vpsfree.es
+verycloud.fr
+full:cdn.wzfou.com
+full:cloudflare.com
+full:dns.pub
+full:p.cfnode1.xyz
+full:xcimg.szwego.com
