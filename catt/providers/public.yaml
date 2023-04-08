@@ -1,7 +1,7 @@
 proxies:
-  - {name: 不良林-1, type: vmess, server: 156.225.67.146, port: 51948, uuid: 93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, alterID: 64, cipher: auto, skip-cert-verify: True}
+  - {name: 不良林-1, type: vmess, server: 156.225.67.146, port: 51948, uuid: 93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, alterId: 64, cipher: auto, skip-cert-verify: True}
   - {name: 不良林-2, type: trojan, server: 170.187.134.190, port: 8443, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, skip-cert-verify: True}
-  - {name: 不良林-3, type: vmess, server: ns02.gutingting.com, port: 30045, uuid: e8a61f08-eb65-4b1c-b181-bc08401d5636, alterID: 0, cipher: auto, skip-cert-verify: True, network: ws, sni: sh02.fastcloud.club, ws-opts: {path: /aceamedv, max-early-data: 2048, early-data-header-name: Sec-WebSocket-Protocol}, udp: true}
+  - {name: 不良林-3, type: vmess, server: ns02.gutingting.com, port: 30045, uuid: e8a61f08-eb65-4b1c-b181-bc08401d5636, alterId: 0, cipher: auto, skip-cert-verify: True, network: ws, sni: sh02.fastcloud.club, ws-opts: {path: /aceamedv, max-early-data: 2048, early-data-header-name: Sec-WebSocket-Protocol}, udp: true}
   - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国, server: 111.23.252.214, port: 45070, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国 2, server: shnnb37f1.xz56bm2v8.lzmg3khpq.soabgo.com, port: 45000, client-fingerprint: chrome, type: vmess, uuid: FF5D3BF5-1296-FB0A-4596-B3CD0C884200, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国 3, server: 183.237.20.147, port: 40095, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
